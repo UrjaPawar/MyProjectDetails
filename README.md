@@ -4,6 +4,7 @@
 
 * My decentralised CV: <https://github.com/UrjaPawar/urjapawar.github.io>
 * A shared wallet: <https://github.com/UrjaPawar/Shared-Wallet>
+* Image Marketplace: Simple selling and buying of images built during Hack in the North 3.0: <https://github.com/nikhilmufc7/Decentralized-Images>
 * Simple smart contracts: <https://github.com/UrjaPawar/SmartContracts>
 * Mini project on New York subway dataset: <https://github.com/UrjaPawar/NYC_SUBWAY_DATA_ANALYSIS>
 * A bilingual app built during InOut edition 3, NIT Surat for updating local people with local and global news: <https://github.com/UrjaPawar/JagrukBharat>
