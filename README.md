@@ -9,6 +9,6 @@
 * A bilingual app built during InOut edition 3, NIT Surat for updating local people with local and global news: <https://github.com/UrjaPawar/JagrukBharat>
 * Mini project on customised searching a list view: <https://github.com/UrjaPawar/SearchingCustomListView>
 
-Other personnal projects are listed [here in my resume](<https://drive.google.com/file/d/1i9OeVPqcvZGOaZ1ktZk2SrkoZcQVfhJB/view?usp=sharing>)
+Other personnel projects are listed [here in my resume](<https://drive.google.com/file/d/1i9OeVPqcvZGOaZ1ktZk2SrkoZcQVfhJB/view?usp=sharing>)
 
 
