@@ -1,6 +1,6 @@
 # MyProjectDetails
 
-##Hello Guys! Find here some of my good projects!##
+## Hello Guys! Find here some of my good projects! ##
 
 * My decentralised CV: <https://github.com/UrjaPawar/urjapawar.github.io>
 * A shared wallet: <https://github.com/UrjaPawar/Shared-Wallet>
